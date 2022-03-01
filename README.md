@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/Mohammad-Sahil/count.svg" />
+</p>
 **Mohammad-Sahil/Mohammad-Sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
