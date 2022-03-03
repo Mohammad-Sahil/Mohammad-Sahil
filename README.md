@@ -1,7 +1,7 @@
 <h2 align='center'> <i>Hello, Folks! <img src="./wave.gif" width="30px"></h2>
 
 ![Sahil_Sign_banner](./sahil_banner.svg)
-
+<br/><img src="./sahil_banner.svg" width="100%">
 [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Sahil&theme=react-dark)](https://github.com/Mohammad-Sahil/github-readme-activity-graph)
 <hr/><br/>
 <p align="center"><strong>Visitors count:</strong></p>
