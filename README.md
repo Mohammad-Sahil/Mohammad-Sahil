@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Folks! <img src="./wave.gif" width="30px"></h2>
 
-![Sahil_Sign_banner](./sahil_signature.png)
+![Sahil_Sign_banner](./sahil_banner.svg)
 
 [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Sahil&theme=react-dark)](https://github.com/Mohammad-Sahil/github-readme-activity-graph)
 <hr/><br/>
