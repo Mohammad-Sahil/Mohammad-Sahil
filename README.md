@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hello, Folks! <img src="./wave.gif" width="30px"></h2>
+<h2 align='center'> <i>Hello, Folks! <img src="./wave.gif" width="30px" height= "30px"></h2>
 
 ![Sahil_Sign_banner](./sahil_signature.png)
 <!-- <br/> -->
