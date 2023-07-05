@@ -3,7 +3,7 @@
 ![Sahil_Sign_banner](./sahil_signature.png)
 <!-- <br/> -->
 <!-- <img src="./sahil_banner.svg" width="200%"> -->
-[![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Sahil&theme=react-dark)](https://github.com/Mohammad-Sahil/github-readme-activity-graph)
+[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Sahil&bg_color=0d2235&color=70718f&line=0d0e35&point=63dffe&area=true&hide_border=true)](https://github.com/Mohammad-Sahil/github-readme-activity-graph)
 <hr/><br/>
 <p align="center"><strong>Visitors count:</strong></p>
   <!-- <meta http-equiv="refresh" content="0.6"> -->
