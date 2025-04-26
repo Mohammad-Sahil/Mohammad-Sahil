@@ -38,27 +38,27 @@
 <div align="center">
 
 <p><strong>Social Media Handles:</strong></p>
+<a href="https://tsharpsahil.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/tsharpsahil.vercel.app-0D4B89?style=flat-square&logo=React&logoColor=white" alt="Portfolio">
+</a>
 <a href="https://www.linkedin.com/in/tsharpsahilemeja/" target="_blank">
   <img src="https://img.shields.io/badge/-tsharpsahilemeja-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://leetcode.com/tsharpsahil/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode">
+</a>
 <a href="https://tsharpsahil.medium.com/" target="_blank">
   <img src="https://img.shields.io/badge/tsharpsahil-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium">
+</a>
+<br/>
+<a href="mailto:tsharpsahil@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-tsharpsahil@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://www.instagram.com/tsharpsahil/" target="_blank">
   <img src="https://img.shields.io/badge/-tsharpsahil-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://twitter.com/tsharpsahil/" target="_blank">
   <img src="https://img.shields.io/badge/-tsharpsahil-000000?style=flat-square&logo=X&logoColor=white" alt="X (Twitter)">
-</a>
-<br/>
-<a href="https://www.tsharpsahil.tech/" target="_blank">
-  <img src="https://img.shields.io/badge/tsharpsahil.tech-0D4B89?style=flat-square&logo=React&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:tsharpsahil@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-tsharpsahil@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://leetcode.com/tsharpsahil/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode">
 </a>
 <br/>
 <div align="center"></div>
