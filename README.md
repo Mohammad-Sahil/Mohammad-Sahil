@@ -14,25 +14,25 @@
 <br/>
 <div align="center">
 <p><strong>Languages and Tools:</strong></p>
- 
-<code><img height="20" src="https://www.python.org/static/favicon.ico"></code>
-<code><img height="20" src="https://isocpp.org/favicon.ico"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://www.mongodb.com/assets/images/global/favicon.ico"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"></code>
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"></code>
-<code><img height="20" src="https://freepikpsd.com/file/2019/10/express-js-png-5-Transparent-Images-570x570.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/468/1*SRL22ADht1NU4LXUeU4YVg.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"></code>
-<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png"></code>
-<code><img height="20" src="https://pnggrid.com/wp-content/uploads/2021/05/Adobe-Illustrator-Logo-1024x998.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="Adobe Illustrator"></code>
+
 </div>
 <br/>
 <div align="center">
