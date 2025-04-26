@@ -36,18 +36,19 @@
 </div>
 <br/>
 <div align="center">
+
 <p><strong>Social Media Handles:</strong></p>
 <a href="https://www.linkedin.com/in/tsharpsahilemeja/" target="_blank">
-  <img src="https://img.shields.io/badge/-tsharpsahilemeja-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-tsharpsahilemeja-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://tsharpsahil.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tsharpsahil-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+  <img src="https://img.shields.io/badge/tsharpsahil-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium">
 </a>
 <a href="https://www.instagram.com/tsharpsahil/" target="_blank">
   <img src="https://img.shields.io/badge/-tsharpsahil-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://twitter.com/tsharpsahil/" target="_blank">
-  <img src="https://img.shields.io/badge/tsharpsahil-000000?style=flat-square&logo=Twitter&logoColor=blue" alt="Twitter">
+  <img src="https://img.shields.io/badge/-tsharpsahil-000000?style=flat-square&logo=X&logoColor=white" alt="X (Twitter)">
 </a>
 <br/>
 <a href="https://www.tsharpsahil.tech/" target="_blank">
@@ -61,6 +62,7 @@
 </a>
 <br/>
 <div align="center"></div>
+
  
  ### Show some ❤️ by starring some of the repositories!
 
