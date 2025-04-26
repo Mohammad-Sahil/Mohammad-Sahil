@@ -37,15 +37,30 @@
 <br/>
 <div align="center">
 <p><strong>Social Media Handles:</strong></p>
-<a href="https://www.linkedin.com/in/tsharpsahilemeja/" target="_blank"><img src="https://img.shields.io/badge/-tsharpsahilemeja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsharpsahilemeja/" alt="LinkedIn"></a>
-<a href="https://tsharpsahil.medium.com/" target="_blank"><img src="https://img.shields.io/badge/tsharpsahil-12100E?style=flat-square&logo=medium&logoColor=white&link=https://tsharpsahil.medium.com/" alt="Medium"></a>
-<a href="https://www.instagram.com/tsharpsahil/" target="_blank"><img src="https://img.shields.io/badge/-tsharpsahil-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tsharpsahil/" alt="Instagram"></a>
-<a href="https://twitter.com/tsharpsahil/" target="_blank"><img src="https://img.shields.io/badge/tsharpsahil-000000?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/tsharpsahil/" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/tsharpsahilemeja/" target="_blank">
+  <img src="https://img.shields.io/badge/-tsharpsahilemeja-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://tsharpsahil.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tsharpsahil-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium">
+</a>
+<a href="https://www.instagram.com/tsharpsahil/" target="_blank">
+  <img src="https://img.shields.io/badge/-tsharpsahil-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://twitter.com/tsharpsahil/" target="_blank">
+  <img src="https://img.shields.io/badge/tsharpsahil-000000?style=flat-square&logo=Twitter&logoColor=blue" alt="Twitter">
+</a>
 <br/>
-<a href="https://www.tsharpsahil.tech/" target="_blank"><img src="https://img.shields.io/badge/tsharpsahil.tech-0D4B89?style=flat-square&logo=React&logoColor=white&link=https://www.tsharpsahil.tech/" alt="Portfolio"></a>
-<a href="mailto:tsharpsahil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-tsharpsahil@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tsharpsahil@gmail.com" alt="Gmail"></a>
-</div><br/>
- <div align="center">
+<a href="https://www.tsharpsahil.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/tsharpsahil.tech-0D4B89?style=flat-square&logo=React&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:tsharpsahil@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-tsharpsahil@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://leetcode.com/tsharpsahil/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode">
+</a>
+<br/>
+<div align="center"></div>
  
  ### Show some ❤️ by starring some of the repositories!
 
