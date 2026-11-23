@@ -1,79 +1,58 @@
-<h2 align='center'> <i>Hello, Folks! <img src="./wave.gif" width="30px" height= "30px"></h2>
+<h1 align="center">Hi, I'm Mohammad Sahil 👋</h1>
+<h3 align="center">Full-Stack Developer · Next.js · Node.js · TypeScript</h3>
 
-<!-- ![Sahil_Sign_banner](./sahil_signature.png) -->
-<!-- <br/> -->
-<!-- <img src="./sahil_banner.svg" width="200%"> -->
-<!-- [![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Sahil&bg_color=0d2235&color=70718f&line=0d0e35&point=63dffe&area=true&hide_border=true)](https://github.com/Mohammad-Sahil/github-readme-activity-graph) -->
-<!-- <hr/> -->
-<br/>
-<p align="center"><strong>Visitors count:</strong></p>
-  <!-- <meta http-equiv="refresh" content="0.6"> -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Mohammad-Sahil/count.svg" />
+<p align="center">
+  I take products from idea to production — admin panels, real-time dashboards, and web and mobile apps for startups and ed-tech teams.
 </p>
-<br/>
-<div align="center">
-<p><strong>Languages and Tools:</strong></p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"></code>
+<p align="center">
+  <a href="https://portfolio-ai-theta-opal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D4B89?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/tsharpsahilemeja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/tsharpsahil/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" alt="LeetCode"></a>
+  <a href="https://tsharpsahil.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge" alt="Medium"></a>
+  <a href="mailto:sahilmejakhas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"></a>
+</p>
 
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0chhXOIHX6peyxvYEdlViwc2iR50ZODzTEA&s" alt="AWS"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator"></code>
+## 📍 Currently
 
+- 🧑‍💻 **Contract Full-Stack Developer** — designing, building, and deploying client web and mobile products end to end
+- 🏢 **Seeking an on-site role** where I can own full-stack work from first design to production
 
-</div>
-<br/>
-<div align="center">
+## 🚀 What I do
 
-<p><strong>Social Media Handles:</strong></p>
-<a href="https://tsharpsahil.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/tsharpsahil.vercel.app-0D4B89?style=flat-square&logo=React&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/tsharpsahilemeja/" target="_blank">
-  <img src="https://img.shields.io/badge/-tsharpsahilemeja-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://leetcode.com/tsharpsahil/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode">
-</a>
-<a href="https://tsharpsahil.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tsharpsahil-12100E?style=flat-square&logo=Medium&logoColor=white" alt="Medium">
-</a>
-<br/>
-<a href="mailto:tsharpsahil@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-tsharpsahil@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://www.instagram.com/tsharpsahil/" target="_blank">
-  <img src="https://img.shields.io/badge/-tsharpsahil-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://twitter.com/tsharpsahil/" target="_blank">
-  <img src="https://img.shields.io/badge/-tsharpsahil-000000?style=flat-square&logo=X&logoColor=white" alt="X (Twitter)">
-</a>
-<br/>
-<div align="center"></div>
+- **Full-stack web apps** — Next.js / React front ends on Node.js, Firebase, and AWS / GCP back ends
+- **Admin panels & dashboards** — role-based access, real-time updates, CI/CD
+- **Mobile apps** — React Native and Flutter
+- **APIs & cloud** — REST and GraphQL, Docker, production deployments
 
- 
- ### Show some ❤️ by starring some of the repositories!
+## 🛠 Tech stack
 
-</div>
+| | |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui" alt="Frontend stack" align="center" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,firebase" alt="Backend and data stack" align="center" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,flutter,dart" alt="Mobile stack" align="center" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux,vercel" alt="Cloud and DevOps stack" align="center" /> |
+| **Also** | <img src="https://skillicons.dev/icons?i=python,cpp,figma,jest" alt="Other tools" align="center" /> |
+
+## 📌 Selected work
+
+| Project | What I built | Stack | Links |
+|---|---|---|---|
+| **TalentZ.AI** | Job portal connecting companies, students, and partners, with role-based dashboards and real-time listings | Next.js, Node.js, DynamoDB, AWS | [Live](https://talentz.ai/) |
+| **Focus On Concepts** | Ed-tech website, admin panel, and Flutter app for live and recorded courses | Next.js, Firebase, Flutter | [Live](https://www.focusonconcepts.com/) · [Admin](https://admin.focusonconcepts.com/) |
+| **Just Speak** | Platform and admin panel for managing events, chapters, and members | Next.js, TypeScript, Firebase | [Live](https://just-speak.com/) |
+| **MasterJi** | Tailoring service — React Native app plus an admin panel with role-based access | React Native, Node.js, Firestore | [Live](https://masterji-admin.vercel.app/) · [Admin code](https://github.com/Mohammad-Sahil/masterji-admin) · [App code](https://github.com/Mohammad-Sahil/masterji-app/) |
+| **Vriddhi** | eSports fest platform with live event listings, Stripe payments, and user dashboards | Next.js, Node.js, MongoDB | [Live](https://vriddhi.vercel.app/) · [Code](https://github.com/Vriddhi2021/frontend/) |
+| **NITR Notes** | Campus reading list of books and notes for every branch and year | HTML, CSS, JS, Firebase | [Live](https://a2znitrnotes.vercel.app/) · [Code](https://github.com/devdribblenitr/Notes/) |
+
+## 🎓 Background
+
+- Int. MSc, Life Science — NIT Rourkela
+- Tech Lead of Vriddhi eSports fest, Founder & President of DevDribble (NITR's development club), and organizer of The Plan B hackathon and SharkTank with E-Cell NITR
+
+## 📫 Let's connect
+
+[sahilmejakhas@gmail.com](mailto:sahilmejakhas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tsharpsahilemeja/)
