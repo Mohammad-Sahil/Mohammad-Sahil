@@ -8,8 +8,7 @@ Admin panels, real-time dashboards, and web and mobile apps for startups and ed-
 
 ## Stack
 
-**Core** — TypeScript · React · Next.js · Node.js · Firebase · AWS · GCP
-
+**Core** — TypeScript · React · Next.js · Node.js · Firebase · AWS · GCP<br/>
 **Also** — GraphQL · MongoDB · PostgreSQL · Docker · React Native · Flutter · Python · C++
 
 ## Work
