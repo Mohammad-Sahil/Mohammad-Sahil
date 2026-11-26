@@ -9,14 +9,16 @@ Admin panels, real-time dashboards, and web and mobile apps for startups and ed-
 ## Stack
 
 **Core** — TypeScript · React · Next.js · Node.js · Firebase · AWS · GCP
-**Also** — React Native · Flutter · GraphQL · MongoDB · PostgreSQL · Docker · Python · C++
+**Also** — GraphQL · MongoDB · PostgreSQL · Docker · React Native · Flutter · Python · C++
 
 ## Work
 
+- [**Naavya Tech LLP**](https://naavyatech.in/) — Company website and role-based admin dashboard
 - [**TalentZ.AI**](https://talentz.ai/) — job portal for companies, students, and partners
 - [**Focus On Concepts**](https://www.focusonconcepts.com/) — ed-tech site, admin panel, and mobile app
 - [**Just Speak**](https://just-speak.com/) — event and chapter management platform
 - [**MasterJi**](https://masterji-admin.vercel.app/) — tailoring app with role-based admin panel · [code](https://github.com/Mohammad-Sahil/masterji-admin)
+- [**Vriddhi**](https://vriddhi.vercel.app/) — eSports fest platform with live event listings, Stripe payments · [code](https://github.com/Vriddhi2021/frontend/)
 
 ## Contact
 
