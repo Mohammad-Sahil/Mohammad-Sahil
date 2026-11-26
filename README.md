@@ -20,4 +20,4 @@ Admin panels, real-time dashboards, and web and mobile apps for startups and ed-
 
 ## Contact
 
-[Portfolio](https://portfolio-ai-theta-opal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tsharpsahilemeja/) · [sahilmejakhas@gmail.com](mailto:sahilmejakhas@gmail.com)
+[Portfolio](https://tsharpsahil.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tsharpsahilemeja/) · [sahilmejakhas@gmail.com](mailto:sahilmejakhas@gmail.com)
